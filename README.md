@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Shridhar%20Kumbhar&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20DeskMind%20AI%20%7C%20Lifelong%20Learner&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I%27m%20Shridhar%20Kumbhar&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20and%20Data%20Science%20Student%20%7C%20Building%20DeskMind%20AI%20%7C%20Lifelong%20Learner&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+AI-powered+apps+%F0%9F%A4%96;B.Tech+AI+%26+Data+Science+Student+%F0%9F%8E%93;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+AI-powered+apps+%F0%9F%A4%96;B.Tech+AI+and+Data+Science+Student+%F0%9F%8E%93;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
